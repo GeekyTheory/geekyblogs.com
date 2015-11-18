@@ -1,0 +1,14 @@
+.fa-spin-4s {
+    -webkit-animation: fa-spin 4s infinite linear;
+    animation: fa-spin 4s infinite linear;
+}
+
+.section-url {
+    color: white;
+    font-weight: bold;
+}
+
+.section-url:hover, .section-url:focus {
+    color: black;
+    text-decoration: none;
+}
